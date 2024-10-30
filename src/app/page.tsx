@@ -4,7 +4,6 @@ import { ShootingStars } from "@/components/ui/shooting-stars";
 import { StarsBackground } from "@/components/ui/stars-background";
 import { ButtonStart } from "@/components/ui/Button-start";
 
-const REF = "/selection";
 
 export default function MainPage() {
   return (
@@ -16,7 +15,7 @@ export default function MainPage() {
         Contesta las preguntas y demuestra tu habilidad en matemáticas
       </h3>
       <div className="relative z-10 pt-10">
-        <ButtonStart ref={REF} />
+        <ButtonStart hrefPath={'selection'} />
       </div>
       <ShootingStars />
       <StarsBackground />
