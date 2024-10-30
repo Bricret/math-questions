@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "type": "Logaritmos",
+        "question": "¿Cuál es el valor de log₂(8)?",
+        "options": [
+          { "option": "3", "isCorrect": true },
+          { "option": "4", "isCorrect": false },
+          { "option": "2", "isCorrect": false },
+          { "option": "1", "isCorrect": false },
+          { "option": "8", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 2,
+        "type": "Logaritmos",
+        "question": "¿Cuál es el valor de log₉(81)?",
+        "options": [
+          { "option": "2", "isCorrect": true },
+          { "option": "3", "isCorrect": false },
+          { "option": "1", "isCorrect": false },
+          { "option": "4", "isCorrect": false },
+          { "option": "9", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 3,
+        "type": "Logaritmos",
+        "question": "¿Cuál es el valor de log₁₀(1000)?",
+        "options": [
+          { "option": "3", "isCorrect": true },
+          { "option": "2", "isCorrect": false },
+          { "option": "1", "isCorrect": false },
+          { "option": "4", "isCorrect": false },
+          { "option": "10", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 4,
+        "type": "Logaritmos",
+        "question": "¿Cuál es el valor de log₄(16)?",
+        "options": [
+          { "option": "2", "isCorrect": false },
+          { "option": "3", "isCorrect": false },
+          { "option": "4", "isCorrect": false },
+          { "option": "2", "isCorrect": true },
+          { "option": "1", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 5,
+        "type": "Logaritmos",
+        "question": "¿Cuál es el valor de log₅(25)?",
+        "options": [
+          { "option": "2", "isCorrect": true },
+          { "option": "3", "isCorrect": false },
+          { "option": "4", "isCorrect": false },
+          { "option": "1", "isCorrect": false },
+          { "option": "5", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 6,
+        "type": "Ecuaciones de Potencia",
+        "question": "Si x² = 36, ¿cuál es el valor de x?",
+        "options": [
+          { "option": "6", "isCorrect": true },
+          { "option": "-6", "isCorrect": true },
+          { "option": "7", "isCorrect": false },
+          { "option": "12", "isCorrect": false },
+          { "option": "-12", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 7,
+        "type": "Ecuaciones de Potencia",
+        "question": "¿Cuál es el valor de 3⁴?",
+        "options": [
+          { "option": "81", "isCorrect": true },
+          { "option": "64", "isCorrect": false },
+          { "option": "27", "isCorrect": false },
+          { "option": "12", "isCorrect": false },
+          { "option": "9", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 8,
+        "type": "Ecuaciones de Potencia",
+        "question": "Si 5² = 25, ¿cuál es el valor de 5³?",
+        "options": [
+          { "option": "125", "isCorrect": true },
+          { "option": "100", "isCorrect": false },
+          { "option": "25", "isCorrect": false },
+          { "option": "10", "isCorrect": false },
+          { "option": "15", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 9,
+        "type": "Ecuaciones de Potencia",
+        "question": "Si x³ = 64, ¿cuál es el valor de x?",
+        "options": [
+          { "option": "4", "isCorrect": true },
+          { "option": "8", "isCorrect": false },
+          { "option": "2", "isCorrect": false },
+          { "option": "16", "isCorrect": false },
+          { "option": "-4", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 10,
+        "type": "Ecuaciones de Potencia",
+        "question": "¿Cuál es el valor de 2⁵?",
+        "options": [
+          { "option": "32", "isCorrect": true },
+          { "option": "16", "isCorrect": false },
+          { "option": "10", "isCorrect": false },
+          { "option": "8", "isCorrect": false },
+          { "option": "4", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 11,
+        "type": "Exponenciales",
+        "question": "¿Cuál es el valor de e⁰?",
+        "options": [
+          { "option": "1", "isCorrect": true },
+          { "option": "0", "isCorrect": false },
+          { "option": "e", "isCorrect": false },
+          { "option": "-1", "isCorrect": false },
+          { "option": "2", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 12,
+        "type": "Exponenciales",
+        "question": "¿Cuál es el valor de e¹?",
+        "options": [
+          { "option": "e", "isCorrect": true },
+          { "option": "1", "isCorrect": false },
+          { "option": "0", "isCorrect": false },
+          { "option": "2", "isCorrect": false },
+          { "option": "-e", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "Exponenciales",
+        "question": "¿Cuál es el valor de 2³?",
+        "options": [
+          { "option": "8", "isCorrect": true },
+          { "option": "6", "isCorrect": false },
+          { "option": "4", "isCorrect": false },
+          { "option": "12", "isCorrect": false },
+          { "option": "10", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 14,
+        "type": "Exponenciales",
+        "question": "¿Cuál es el valor de 10²?",
+        "options": [
+          { "option": "100", "isCorrect": true },
+          { "option": "20", "isCorrect": false },
+          { "option": "50", "isCorrect": false },
+          { "option": "25", "isCorrect": false },
+          { "option": "10", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 15,
+        "type": "Exponenciales",
+        "question": "¿Cuál es el valor de 3³?",
+        "options": [
+          { "option": "27", "isCorrect": true },
+          { "option": "9", "isCorrect": false },
+          { "option": "12", "isCorrect": false },
+          { "option": "18", "isCorrect": false },
+          { "option": "15", "isCorrect": false }
+        ]
+      }
+    ]
+  }
+  
