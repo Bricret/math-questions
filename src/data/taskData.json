@@ -62,7 +62,7 @@
       },
       {
         "id": 6,
-        "type": "Ecuaciones de Potencia",
+        "type": "Ecuaciones_de_Potencia",
         "question": "Si x² = 36, ¿cuál es el valor de x?",
         "options": [
           { "option": "6", "isCorrect": true },
@@ -74,7 +74,7 @@
       },
       {
         "id": 7,
-        "type": "Ecuaciones de Potencia",
+        "type": "Ecuaciones_de_Potencia",
         "question": "¿Cuál es el valor de 3⁴?",
         "options": [
           { "option": "81", "isCorrect": true },
@@ -86,7 +86,7 @@
       },
       {
         "id": 8,
-        "type": "Ecuaciones de Potencia",
+        "type": "Ecuaciones_de_Potencia",
         "question": "Si 5² = 25, ¿cuál es el valor de 5³?",
         "options": [
           { "option": "125", "isCorrect": true },
@@ -98,7 +98,7 @@
       },
       {
         "id": 9,
-        "type": "Ecuaciones de Potencia",
+        "type": "Ecuaciones_de_Potencia",
         "question": "Si x³ = 64, ¿cuál es el valor de x?",
         "options": [
           { "option": "4", "isCorrect": true },
@@ -110,7 +110,7 @@
       },
       {
         "id": 10,
-        "type": "Ecuaciones de Potencia",
+        "type": "Ecuaciones_de_Potencia",
         "question": "¿Cuál es el valor de 2⁵?",
         "options": [
           { "option": "32", "isCorrect": true },
