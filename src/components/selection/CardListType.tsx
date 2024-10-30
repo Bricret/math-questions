@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function CardListType() {
   return (
-    <div className="flex gap-4 justify-between items-center">
+    <div className="flex flex-wrap gap-x-4 justify-between items-center">
       <Link href={"/selection/logaritmos"}>
         <GlareCard className="flex flex-col items-center justify-center">
           <svg
